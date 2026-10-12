@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>MiiTune</name>
+  <coder>KatsuMaki1</coder>
+  <version>1.0</version>
+  <short_description>YouTube Music client for Wii U</short_description>
+  <long_description>Search, queue, playlists, lyrics and Last.fm scrobbling for YouTube Music, built for the GamePad touch screen.</long_description>
+</app>

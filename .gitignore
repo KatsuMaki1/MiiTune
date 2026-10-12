@@ -1,0 +1,18 @@
+# build output
+build/
+dist/
+*.elf
+*.rpx
+*.wuhb
+*.o
+
+# local secrets / config (never commit)
+google.json
+lastfm.json
+miitune_account.json
+settings.json
+debug.txt
+
+# python
+__pycache__/
+*.pyc
